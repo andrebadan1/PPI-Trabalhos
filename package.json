@@ -1,0 +1,29 @@
+{
+  "name": "ppi-trabalhos",
+  "version": "1.0.0",
+  "description": "Atividades",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrebada/ppi-trabalhos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrebada/ppi-trabalhos/issues"
+  },
+  "homepage": "https://github.com/andrebada/ppi-trabalhos#readme",
+  "keywords": [
+    "Ativiades",
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Andre Badan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
